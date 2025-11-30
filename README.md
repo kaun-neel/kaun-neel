@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm <strong>Indraneel Bose</strong> (Neel)</h1>
+<h1 align="center">👋 Hi, I'm <strong>Indraneel Bose</strong></h1>
 <h3 align="center">CS + Data Analytics @ IIT Patna | AI/ML • Research • Data Science • Cybersecurity</h3>
 
 <p align="center">
