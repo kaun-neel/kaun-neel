@@ -67,7 +67,7 @@
 ---
 
 ## 📫 Reach Me
-- 📧 **indraneelbose31@gmail.com**  
+- 📧 **indraneelbose89191@gmail.com**  
 - 🔗 *[https://www.linkedin.com/in/indraneel009/]*  
 - 🤝 Open to collaborations on AI, ML, DS, and research projects.
 
