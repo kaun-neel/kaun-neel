@@ -1,82 +1,95 @@
-##👋 Hey, I'm Indraneel Bose (Neel)
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm <strong>Indraneel Bose</strong> (Neel)</h1>
+<h3 align="center">CS + Data Analytics @ IIT Patna | AI/ML • CV • Data Science • Game Dev</h3>
 
-CS + Data Analytics @ IIT Patna
-Building real stuff in AI, Machine Learning, Computer Vision, Cloud, and Game Dev
-Future goal: AI/ML Engineer & Researcher
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=indraneelbose&label=Profile%20Views&color=blue&style=flat" alt="views" />
+</p>
 
-🚀 What I'm Doing Right Now
+---
 
-🔍 Working on Graphy.io — Social Network Analysis using Graph Neural Networks (GNNs)
+## 🚀 About Me
 
-🎯 Preparing for AI/ML roles with hands-on projects
+- 🎓 Sophomore at **IIT Patna**, BS in CS & Data Analytics  
+- 🤖 Working on **AI, ML, Computer Vision, Cloud, and Game Development**  
+- 🧠 Aiming for **AI/ML Engineer** and future **MS in CS** (China)  
+- 🔬 Exploring **AI agents, GNNs, and LLM workflows**  
+- 🚀 I love building projects that feel *alive*: AI tools, games, geospatial apps, and even romantic interactive websites.
 
-👨‍💻 Learning AI Agents, Multi-agent systems, and cutting-edge LLM workflows
+---
 
-📚 Exploring Chinese universities for MS (CS)
+## 🧩 Featured Projects
 
-💡 My Strongest Areas
+### 🔵 **Graphy.io — Social Network Analysis with GNNs**
+> Community detection, link prediction, influencer finding using **GCN & GraphSAGE**  
+**Tech:** PyTorch Geometric, NetworkX, Python
 
-Machine Learning & Deep Learning
+---
 
-Computer Vision (CNNs, U-Net)
+### 🟢 **Slum Mapping from Satellite Imagery**
+> Segmenting slum areas using **U-Net**, Sentinel-2, and geospatial preprocessing  
+**Tech:** Python, OpenCV, Rasterio, CNNs
 
-Data Science & Analytics
+---
 
-Python, C, JavaScript
+### 🟣 **Medical Emergency Assistant App**
+> Suggests nearest hospitals + real-time bed availability (Hackathon project)  
+**Tech:** JS, Firebase, Open APIs
 
-Cloud + DevOps basics
+---
 
-Game Development (Scratch → JS)
+### 🧡 **Romantic Interactive Website**
+> Scroll-to-walk animation, custom characters, animated environment, lyric sync  
+**Tech:** HTML, CSS, JS (creative web build)
 
-🛠 Projects Worth Checking
-🔵 Graphy.io
+---
 
-Social Network Analysis using GCN & GraphSAGE
-Community detection, link prediction, influencer analysis.
+## 💼 Tech Stack
 
-🟢 Slum Mapping from Satellite Imagery
+### 🧠 **AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv" />
+</p>
 
-Detecting slum zones using U-Net, Sentinel-2 data, and geospatial preprocessing.
+### 💻 **Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
+</p>
 
-🟣 Medical Emergency Assistant App (Hackathon)
+### ☁️ **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,aws,vscode" />
+</p>
 
-Shows nearest hospitals, real-time bed availability, and emergency contacts.
+---
 
-🧡 Romantic Interactive Website
+## 🔥 What I’m Learning Next
+- RL & autonomous AI agents  
+- Vision Transformers  
+- Distributed ML / Cloud ML  
+- Full-stack JS  
+- Multi-agent systems  
 
-A custom-built animated love story website (scroll-to-walk interaction, character animations, song lyrics, ambient visuals).
+---
 
-⚙️ Tech Stack I Use
+## 📊 GitHub Stats
 
-Languages: Python, C, JavaScript
-AI/ML: TensorFlow, PyTorch, Scikit-Learn
-Data: Pandas, NumPy, Matplotlib, Seaborn
-Vision: OpenCV, U-Net, Vision Transformers
-Dev Tools: Git, VS Code, Linux, Docker
-Cloud: AWS basics, VM setups
-Other: Scratch game dev, Web dev fundamentals
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=indraneelbose&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraneelbose&layout=compact&theme=tokyonight" />
+</p>
 
-🧠 What I’m Learning Next
+---
 
-Autonomous AI agents
+## 📫 Reach Me
+- 📧 **indraneelbose31@gmail.com**  
+- 🔗 *LinkedIn link goes here*  
+- 🤝 Open to collaborations on AI, ML, CV, and research projects.
 
-Reinforcement Learning
+---
 
-Cloud-native ML workflows
+## ⚡ Fun Note
+I build anything that excites me — from GNNs to satellite models to a full-on romantic website.  
+If the idea is crazy enough, I’ll code it.
 
-Advanced CV architectures
-
-Full-stack JS for scalable apps
-
-📫 Connect with Me
-
-✉️ indraneelbose31@gmail.com
-
-🔗 LinkedIn
-
-🧪 Always open for collaborations on AI, research, and interesting dev builds.
-
-🤝 Fun Fact
-
-I love building things that people actually use — from AI tools to games to romantic websites.
-If the idea excites me, I’ll code it.
+---
