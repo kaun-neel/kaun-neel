@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <strong>Indraneel Bose</strong> (Neel)</h1>
-<h3 align="center">CS + Data Analytics @ IIT Patna | AI/ML • CV • Data Science • Game Dev</h3>
+<h3 align="center">CS + Data Analytics @ IIT Patna | AI/ML • Research • Data Science • Cybersecurity</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indraneelbose&label=Profile%20Views&color=blue&style=flat" alt="views" />
@@ -11,10 +11,10 @@
 ## 🚀 About Me
 
 - 🎓 Sophomore at **IIT Patna**, BS in CS & Data Analytics  
-- 🤖 Working on **AI, ML, Computer Vision, Cloud, and Game Development**  
+- 🤖 Working on **AI, ML, Research, Cloud, and Data Science**  
 - 🧠 Aiming for **AI/ML Engineer** and future **MS in CS** (China)  
 - 🔬 Exploring **AI agents, GNNs, and LLM workflows**  
-- 🚀 I love building projects that feel *alive*: AI tools, games, geospatial apps, and even romantic interactive websites.
+- 🚀 I love building projects that feel *alive*: AI tools, geospatial apps, performing case studies and research papers.
 
 ---
 
@@ -35,12 +35,6 @@
 ### 🟣 **Medical Emergency Assistant App**
 > Suggests nearest hospitals + real-time bed availability (Hackathon project)  
 **Tech:** JS, Firebase, Open APIs
-
----
-
-### 🧡 **Romantic Interactive Website**
-> Scroll-to-walk animation, custom characters, animated environment, lyric sync  
-**Tech:** HTML, CSS, JS (creative web build)
 
 ---
 
@@ -72,24 +66,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=indraneelbose&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraneelbose&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Reach Me
 - 📧 **indraneelbose31@gmail.com**  
-- 🔗 *LinkedIn link goes here*  
-- 🤝 Open to collaborations on AI, ML, CV, and research projects.
+- 🔗 *(https://www.linkedin.com/in/indraneel009/)*  
+- 🤝 Open to collaborations on AI, ML, DS, and research projects.
 
 ---
 
 ## ⚡ Fun Note
-I build anything that excites me — from GNNs to satellite models to a full-on romantic website.  
+I build anything that excites me , 
 If the idea is crazy enough, I’ll code it.
 
 ---
