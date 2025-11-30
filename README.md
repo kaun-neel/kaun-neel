@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Sophomore at **IIT Patna**, BS in CS & Data Analytics  
+- 🎓 Senior CS Student at **IIT Patna**, BS in CS & Data Analytics  
 - 🤖 Working on **AI, ML, Research, Cloud, and Data Science**  
 - 🧠 Aiming for **AI/ML Engineer** and future **MS in CS** (China)  
 - 🔬 Exploring **AI agents, GNNs, and LLM workflows**  
@@ -68,7 +68,7 @@
 
 ## 📫 Reach Me
 - 📧 **indraneelbose31@gmail.com**  
-- 🔗 *(https://www.linkedin.com/in/indraneel009/)*  
+- 🔗 *[https://www.linkedin.com/in/indraneel009/]*  
 - 🤝 Open to collaborations on AI, ML, DS, and research projects.
 
 ---
