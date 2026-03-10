@@ -34,7 +34,7 @@
 
 ### 🟣 **NASA Exoplanet Habitability Scorer**
 > Ingests real observational data from NASA and ranks every known exoplanet in terms of habitability  
-**Tech:** JS, Firebase, Open APIs
+**Tech:** SQL, Python, MySQL Workbench, MySQL Shell
 
 ---
 
