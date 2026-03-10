@@ -32,8 +32,8 @@
 
 ---
 
-### 🟣 **Medical Emergency Assistant App**
-> Suggests nearest hospitals + real-time bed availability (Hackathon project)  
+### 🟣 **NASA Exoplanet Habitability Scorer**
+> Ingests real observational data from NASA and ranks every known exoplanet in terms of habitability  
 **Tech:** JS, Firebase, Open APIs
 
 ---
