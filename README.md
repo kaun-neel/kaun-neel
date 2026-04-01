@@ -45,7 +45,7 @@ class Indraneel:
 <tr>
 <td width="50%" valign="top">
 
-###  Graphy.io
+### -> Graphy.io
 **Social Network Analysis with Graph Neural Networks**
 
 Deployed **GCN & GraphSAGE** on real social network data to detect communities, recommend links, and surface hidden influencers. Achieved **80.2% test accuracy** on the Cora benchmark dataset.
@@ -57,7 +57,7 @@ Deployed **GCN & GraphSAGE** on real social network data to detect communities, 
 </td>
 <td width="50%" valign="top">
 
-###  GhostShell
+### -> GhostShell
 **UNIX Shell — Built Entirely in Haskell**
 
 A fully functional Unix shell written from scratch in pure Haskell with a beautiful web-based terminal UI. Supports command execution, I/O redirection, interactive REPL, quote parsing, and intelligent tab completion — **zero shell libraries, sub-1-second responses**.
@@ -71,7 +71,7 @@ A fully functional Unix shell written from scratch in pure Haskell with a beauti
 <tr>
 <td width="50%" valign="top">
 
-###  Tempestra
+### -> Tempestra
 **Deep Learning Climate Model Predictor**
 
 A surrogate deep learning model predicting weather patterns and storm trajectories using a hybrid **CNN + Physics-Informed Neural Network (PINN)** architecture — marrying raw data with physical laws.
@@ -83,7 +83,7 @@ A surrogate deep learning model predicting weather patterns and storm trajectori
 </td>
 <td width="50%" valign="top">
 
-###  RideScout
+### -> RideScout
 **Cab Price Comparator via Android Automation**
 
 Automated cab price comparison across **Uber, Ola & Rapido** using Android emulator automation powered by the **Droidrun Framework's** accessibility and vision capabilities — no manual app switching needed.
@@ -101,7 +101,7 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 ##  Experience
 
 <details>
-<summary><b>🔬 Summer Research Intern — IIT Jammu</b> &nbsp;|&nbsp; Jun 2025 – Jul 2025</summary>
+<summary><b> Summer Research Intern — IIT Jammu</b> &nbsp;|&nbsp; Jun 2025 – Jul 2025</summary>
 <br/>
 
 - Engineered a **multi-framework AI agent ecosystem** leveraging OpenAI Agents, CrewAI, and n8n, covering multi-agent workflow architectures and a **VAPI-integrated voice bot**
@@ -154,8 +154,6 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kaun-neel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaun-neel&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
