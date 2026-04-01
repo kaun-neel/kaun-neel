@@ -45,7 +45,7 @@ class Indraneel:
 <tr>
 <td width="50%" valign="top">
 
-### 🕸️ Graphy.io
+###  Graphy.io
 **Social Network Analysis with Graph Neural Networks**
 
 Deployed **GCN & GraphSAGE** on real social network data to detect communities, recommend links, and surface hidden influencers. Achieved **80.2% test accuracy** on the Cora benchmark dataset.
@@ -57,7 +57,7 @@ Deployed **GCN & GraphSAGE** on real social network data to detect communities, 
 </td>
 <td width="50%" valign="top">
 
-### 👻 GhostShell
+###  GhostShell
 **UNIX Shell — Built Entirely in Haskell**
 
 A fully functional Unix shell written from scratch in pure Haskell with a beautiful web-based terminal UI. Supports command execution, I/O redirection, interactive REPL, quote parsing, and intelligent tab completion — **zero shell libraries, sub-1-second responses**.
@@ -71,7 +71,7 @@ A fully functional Unix shell written from scratch in pure Haskell with a beauti
 <tr>
 <td width="50%" valign="top">
 
-### 🌩️ Tempestra
+###  Tempestra
 **Deep Learning Climate Model Predictor**
 
 A surrogate deep learning model predicting weather patterns and storm trajectories using a hybrid **CNN + Physics-Informed Neural Network (PINN)** architecture — marrying raw data with physical laws.
@@ -83,7 +83,7 @@ A surrogate deep learning model predicting weather patterns and storm trajectori
 </td>
 <td width="50%" valign="top">
 
-### 🚖 RideScout
+###  RideScout
 **Cab Price Comparator via Android Automation**
 
 Automated cab price comparison across **Uber, Ola & Rapido** using Android emulator automation powered by the **Droidrun Framework's** accessibility and vision capabilities — no manual app switching needed.
@@ -98,7 +98,7 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 
 ---
 
-## 💼 Experience
+##  Experience
 
 <details>
 <summary><b>🔬 Summer Research Intern — IIT Jammu</b> &nbsp;|&nbsp; Jun 2025 – Jul 2025</summary>
@@ -110,7 +110,7 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 </details>
 
 <details>
-<summary><b>📊 Data Analyst Intern — To-Let Globe</b> &nbsp;|&nbsp; May 2024 – Sep 2025</summary>
+<summary><b> Data Analyst Intern — To-Let Globe</b> &nbsp;|&nbsp; May 2024 – Sep 2025</summary>
 <br/>
 
 - Applied data cleaning and transformation to large-scale datasets, **improving reporting efficiency by 35%**
@@ -120,9 +120,9 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🧠 AI / ML
+###  AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -130,7 +130,7 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 ![LangGraph](https://img.shields.io/badge/LangGraph-00B37E?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
 
-### 💻 Programming Languages
+###  Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -139,7 +139,7 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-### ☁️ Tools & Platforms
+###  Tools & Platforms
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square)
@@ -150,7 +150,7 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -167,7 +167,7 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 
 ## 🏆 Awards & Certifications
 
-| 🥇 | Achievement |
+|   | Achievement |
 |----|-------------|
 | 🥈 | Silver Medalist — **International Olympiad of Mathematics** |
 | 🥇 | Gold Medalist — **Mahatma Gandhi National Language Competition** |
@@ -179,7 +179,7 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 
 ---
 
-## 🔥 Currently Exploring
+##  Currently Exploring
 
 ```
 ▶ Reinforcement Learning & Autonomous AI Agents
@@ -193,20 +193,15 @@ Automated cab price comparison across **Uber, Ola & Rapido** using Android emula
 
 <div align="center">
 
-### 📫 Let's Build Something Crazy Together
+###  Let's Build Something Crazy Together
 
 [![Email](https://img.shields.io/badge/indraneelbose89191@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indraneelbose89191@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indraneel009/)
 
 <br/>
 
-*Open to collaborations on AI, ML, Data Science, and research projects.*
+*Open to collaborations on AI, ML, Data Science, and research projects ❤️*
 
 <br/>
-
-```
-"If the idea is crazy enough, I'll code it."
-                               — Indraneel Bose
-```
 
 </div>
